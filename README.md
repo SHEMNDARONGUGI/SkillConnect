@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+# SkillConnect
 
-## Project info
+SkillConnect is a professional networking and talent discovery platform dedicated to connecting Kenya’s skilled youth with meaningful employment and freelance opportunities. Whether you’re an ambitious professional seeking your next career move, or an employer searching for verified talent, SkillConnect makes the process simple, secure, and effective.
 
-**URL**: https://lovable.dev/projects/3c2db3b7-9ce3-4e87-be25-6ad6f86d43a6
+---
 
-## How can I edit this code?
+## 🌍 Why SkillConnect?
 
-There are several ways of editing your application.
+Unemployment and underemployment remain significant challenges in Kenya — especially among young, skilled professionals. SkillConnect bridges this gap by providing a trusted space to showcase talents, get verified, and connect with the right opportunities.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/3c2db3b7-9ce3-4e87-be25-6ad6f86d43a6) and start prompting.
+## ✨ Key Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Professional Profiles**  
+  Create rich profiles featuring your skills, experience, education, and portfolio. Upload certificates, qualifications, and CVs to boost your credibility.
 
-**Use your preferred IDE**
+- **Verified Professionals**  
+  Every profile is vetted by admins to ensure authenticity and trust, so employers and clients can hire with confidence.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Smart Discovery**  
+  Advanced search and filtering help employers find the right talent by skills, location, qualifications, and experience level.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Direct Communication**  
+  Secure, built-in messaging makes it easy for professionals and employers to connect and collaborate.
 
-Follow these steps:
+- **Skill Assessment**  
+  Tag your skills and get them verified for extra trust and visibility.
 
+- **Location-Based Matching**  
+  Discover jobs and talent near you using our location-aware platform.
+
+- **Mobile-First Design**  
+  SkillConnect is fully responsive, providing a seamless experience on any device.
+
+---
+
+## 🚀 Quick Start
+
+**Clone and Run Locally:**
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+cd SkillConnect
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+**Edit Directly on GitHub:**
+- Open the desired file in your browser.
+- Click the pencil icon to edit.
+- Commit changes directly.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Use GitHub Codespaces:**
+- Click the green "Code" button.
+- Select "Codespaces" and launch a new instance.
+- Develop and commit in the cloud.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🛠 Tech Stack
 
-## What technologies are used for this project?
+- [Vite](https://vitejs.dev/) — Fast, modern build tool
+- [React](https://react.dev/) — UI library
+- [TypeScript](https://www.typescriptlang.org/) — Type safety
+- [shadcn/ui](https://ui.shadcn.com/) — Accessible UI components
+- [Tailwind CSS](https://tailwindcss.com/) — Utility-first styling
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 🌐 Deployment
 
-## How can I deploy this project?
+SkillConnect can be instantly deployed and managed through [Lovable](https://lovable.dev/projects/3c2db3b7-9ce3-4e87-be25-6ad6f86d43a6). Simply open your project, then click **Share → Publish**.
 
-Simply open [Lovable](https://lovable.dev/projects/3c2db3b7-9ce3-4e87-be25-6ad6f86d43a6) and click on Share -> Publish.
+**Custom Domain:**  
+Connect your own domain under Project > Settings > Domains.  
+See the [custom domain guide](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide) for a step-by-step walkthrough.
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+## 🤝 Contact & Support
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+- **Email:** hello@skillconnect.ke
+- **Phone:** +254 700 000 000
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+For bug reports or feature requests, please use the [GitHub Issues](https://github.com/SHEMNDARONGUGI/SkillConnect/issues) page.
+
+---
+
+> **SkillConnect — Connecting Kenya’s skilled youth with opportunity, and empowering the next generation of professionals.**
